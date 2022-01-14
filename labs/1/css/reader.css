@@ -1,0 +1,13 @@
+body {
+    margin: 50px;
+}
+
+#header {
+    float: right;
+}
+
+#note {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 50px;
+}
